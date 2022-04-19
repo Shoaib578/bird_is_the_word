@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>138920784391-39bkbmstei2t6ricob0db1ha2l0h1gsd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.138920784391-39bkbmstei2t6ricob0db1ha2l0h1gsd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBctTdgWOd6M9gzO7XtL_xVn0plLIByNW4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>138920784391</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.bird-is-the-word</string>
+	<key>PROJECT_ID</key>
+	<string>bird-is-the-word-3798c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bird-is-the-word-3798c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:138920784391:ios:f3ac0acaeae830fac970a2</string>
+</dict>
+</plist>

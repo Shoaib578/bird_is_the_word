@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138920784391",
+    "project_id": "bird-is-the-word-3798c",
+    "storage_bucket": "bird-is-the-word-3798c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138920784391:android:c53e3c2943aef49ec970a2",
+        "android_client_info": {
+          "package_name": "com.bird_is_the_word"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138920784391-ln2uh8p21u5oq4ru6lo902i39c7bro56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIhPYFougpaSjCyQZ1DjuIapF1KLYnvWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138920784391-ln2uh8p21u5oq4ru6lo902i39c7bro56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
